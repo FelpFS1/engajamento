@@ -101,12 +101,13 @@ main .buttons button img {
     top: -52px;
 }
 .footerinfo{
-    
+    width: 100vw;
     position: relative;
     padding: 2rem;
     bottom: 0;
     left: 0;
     background-color: #ffffff;
+    font-size: 0.85rem;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
@@ -118,6 +119,7 @@ main .buttons button img {
 .footerinfo p{
     display: block;
     text-align: justify;
+    
     
 }
 
